@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi dajiahao
+Hubot here, I like Node,js and php
